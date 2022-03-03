@@ -79,3 +79,5 @@ eagle.epf
 
 # file locks introduced since 7.x
 *.lck
+payload_stack.FCStd
+payload_stack.FCStd1
